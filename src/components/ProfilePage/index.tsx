@@ -26,7 +26,7 @@ const ProfilePage: React.FC = () => {
         <p>
           Web Full Stack Developer
           <a href="https://www.linkedin.com/in/john-eric-jahn-36474b1a4/">
-            @JohnEricJahn
+            &nbsp;@Linkedin
           </a>
         </p>
 
