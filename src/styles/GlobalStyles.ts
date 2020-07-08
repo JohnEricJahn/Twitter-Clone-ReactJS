@@ -27,6 +27,10 @@ export default createGlobalStyle`
     background: var(--primary);
   }
 
+  button {
+    cursor: pointer;
+  }
+
   :root {
     --primary: #000;
     --secondary: #15181C;
