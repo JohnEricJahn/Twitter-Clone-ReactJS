@@ -109,7 +109,6 @@ export const MenuButton = styled.button`
     }
   }
 `;
-
 const iconCSS = css`
   flex-shrink: 0;
 
@@ -117,7 +116,6 @@ const iconCSS = css`
   height: 30px;
   color: var(--white);
 `;
-
 export const HomeIcon = styled(Home)`
   ${iconCSS}
 `;
