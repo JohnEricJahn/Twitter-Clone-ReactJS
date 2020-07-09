@@ -4,7 +4,6 @@ export const Container = styled.div`
   display: flex;
   flex-direction: column;
 `;
-
 export const Tab = styled.div`
   margin-top: 10px;
   padding: 11px 0 15px;
@@ -23,3 +22,10 @@ export const Tab = styled.div`
     background: var(--twitter-dark-hover);
   }
 `;
+export const Tweets = styled.div`
+  display: flex;
+  flex-direction: column;
+
+  flex-shrink: 0;
+`;
+export const Tweet = styled.div``;
